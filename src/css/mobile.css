@@ -1,0 +1,11 @@
+.search-text {
+  width: 400px;
+  height: 200px;
+  background-color: rgb(216, 12, 46);
+  font-size: 30px;
+  font-family: '赵云';
+}
+@font-face {
+  font-family: '赵云';
+  src: url('../fonts/包图小白体.ttf') format('truetype');
+}
